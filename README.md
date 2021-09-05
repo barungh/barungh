@@ -1,3 +1,4 @@
+![Profile Banner](./profile_banner.jpg)
 # About Me  😎
 
 I am working on it 😃  

@@ -20,6 +20,8 @@ A client solution I designed, built and am rolling out end to end. It replaces W
 | **Android field app** | **Owner reports (English / Hindi)** |
 | ![Android app](assets/ayukshit-ops/android-app.png) | ![Reports](assets/ayukshit-ops/reports.png) |
 
+<p align="center"><img src="assets/ayukshit-ops/sign-in-2fa.png" alt="Sign-in with one session per login and authenticator 2FA" width="640"><br><sub>Secure sign-in: one active session per login, authenticator-app 2FA with backup codes</sub></p>
+
 **What it does**
 
 - Android app for field staff: attendance, job stages, fuel fills — every photo GPS-stamped
